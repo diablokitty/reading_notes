@@ -17,7 +17,7 @@ Semantics help us to understand the meaning, intent or important of elements on 
 
 There are six levels of headings, identified as h1, h2, h3, h4, h5 and h6. The headings decrement in size, so h1 is huge and bold and h6 is tiny but also bold.
 
-3. What are some uses for the <sup> and <sub> elements?
+3. What are some uses for the < sup > and < sub > elements?
 
 Dates, chemical formula, mathmatical equations, also if you like formatting to appear a certain way (like superscripted cents after your dollar amounts for money).
 
