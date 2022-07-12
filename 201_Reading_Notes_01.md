@@ -38,19 +38,19 @@ More reading:
 
 Questions from these readings:
 
-1. What is an HTML attribute?
+- What is an HTML attribute?
 
+An HTML attribute is the information assigning a change to an element, so for an element like background-color, the attribute would be the actual color assigned.
 
-
-2. Describe the Anatomy of an HTMl element.
+- Describe the Anatomy of an HTML element.
 
 Elements all kind of have their own anatomy depending on what they're for.
 
-3. What is the Difference between <article> and <section> element tags?
+- What is the Difference between <article> and <section> element tags?
 
 An article tag is for a block of content that makes sense on it's own, a section is for a group of elements that are related (i.e. a set of daily headlines).
 
-4. What Elements does a “typical” website include?
+- What Elements does a “typical” website include?
 
 -Header
 -Navigation bar
@@ -58,11 +58,11 @@ An article tag is for a block of content that makes sense on it's own, a section
 -Sidebar (maybe)
 -Footer
 
-5. How does metadata influence Search Engine Optimization?
+- How does metadata influence Search Engine Optimization?
 
 Metadata helps search engines decide if a site is relevent and should be shown in a search, and in what order. It also gives a brief description of the site in search results, if you add one.
 
-6. How is the <meta> HTML tag used when specifying metadata?
+- How is the <meta> HTML tag used when specifying metadata?
 
 The meta tag assigns properties and information about the website.
 
@@ -72,15 +72,9 @@ And some more reading:
 
 Questions:
 
-1. What is the first step to designing a Website? 
+1. What is the first step to designing a Website? - Figure out what you're trying to do with the website.
 
-Figure out what you're trying to do with the website.
-
-2. What is the most important question to answer when designing a Website?
-
-Who is this website supposed to be for, how should it look? and what functionality does it need?
-
-That's three questions, but they're all related.
+2. What is the most important question to answer when designing a Website? - Who is this website supposed to be for, how should it look? and what functionality does it need?  That's three questions, but they're all related.
 
 And more reading:
 
@@ -88,25 +82,17 @@ And more reading:
 
 Questions:
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an <h1> element over a <span> element to display a top level heading? - Because the <h1> tag is the correct semantic element, and it is most likely to behave the way your heading to behave.
 
-Because the <h1> tag is the correct semantic element, and it is most likely to behave the way your heading to behave.
-
-2. What are the benefits of using semantic tags in our HTML?
-
-We ensure a certain amount of predictibility in our page renderings.
+2. What are the benefits of using semantic tags in our HTML? - We ensure a certain amount of predictibility in our page renderings.
 
 Last reading:
 
 - What is JavaScript?
 
-1. Describe 2 things that require JavaScript in the Browser?
+1. Describe 2 things that require JavaScript in the Browser? - Dynamically updating content and animating images.
 
-Dynamically updating content and animating images.
-
-2. How can you add JavaScript to an HTML document?
-
-You can code it directly into the html document or you can include a separate file, link it, and then reference it in your html document. 
+2. How can you add JavaScript to an HTML document? - You can code it directly into the html document or you can include a separate file, link it, and then reference it in your html document. 
 
 ## Things I want to know more about:
 
