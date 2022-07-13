@@ -75,7 +75,7 @@ Give an example of when a Loop is useful in JavaScript.
 
 When you want to run a piece of code a certain number of times. For example, you are collecting information on pets. You ask first how many pets a user has, then you run the block of code that collects name, type of pet, etc, that number of times.
 
-##Things I want to know more about
+## Things I want to know more about
 
 I always have trouble with arrays, so I will definitely need to re-read that section and then do some practice work calling and manipulating arrays. 
 
