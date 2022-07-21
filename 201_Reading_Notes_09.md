@@ -12,12 +12,12 @@ Users need to be able to understand what they're supposed to do with the form, s
 
 - List 5 form elements and explain their importance.
 
-<label> Tells the user what to do (like answer a question or enter information)
-<input> defines what kind of input we expect (like email)
-<textarea> allows a user to enter a short text response in a multi-line field.
-<button> is how the user transmits the finished form (via an event listener on the button, but that's later)
-<form> defines the area of the website where these other interactive elements will reside.
-
+Label <label> Tells the user what to do (like answer a question or enter information)
+Input <input> defines what kind of input we expect (like email)
+Textarea <textarea> allows a user to enter a short text response in a multi-line field.
+Button <button>Click</button> is how the user transmits the finished form (via an event listener on the button, but that's later)
+<form>Form goes here</form> defines the area of the website where these other interactive elements will reside.
+(apparently MarkDown responds to some of these tags.)
 ### Read Learn JS Introduction To Events.
 
 - How would you describe events to a non-technical friend?
