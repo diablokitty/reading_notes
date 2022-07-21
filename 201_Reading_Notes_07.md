@@ -32,7 +32,7 @@ When this is used in an object literal it's identifying information that's alrea
 
 - Explain prototypes and inheritance via an analogy from your previous work experience.
 
-Prototypes are new properties of objects. I can't do this analogy, because I don't understand them well enough yet.
+Second try - a prototype is like a blank invoice, there are common fields like company name and address, date and invoice number and amount and due date, those properties are inherited from a constructor, or a prototype assignment after the object is instantiated, but the specifics of that information is assigned when the object like a specific invoice is produced.
 
 NOTE: This is a very common front end developer interview question
 
