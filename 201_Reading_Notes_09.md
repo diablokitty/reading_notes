@@ -36,3 +36,7 @@ Event bubbling checks elements from the event outward, event capturing starts ou
 
 
 ## Further reading HTML5 Input Types and Event Reference and listings
+
+## Things I want to know more about
+
+All things taking input and giving back stimulation are cool. I want to know more about how to take in data and do all the stuff with it. 

@@ -25,3 +25,7 @@ Flexbox doesn't take elements out of the normal flow of the document so it doesn
 Ideally this information will give me ideas for ways to more precisely control the layout of webpages, and allow me to do it faster and with more predictable outcomes. This will allow me to build prototypes for proof of concepts work on my projects myself if I have to.
 
 ### Bookmark and Review Learn CSS - Layout
+
+## Things I want to know more about
+
+I find controlling the elements on a page very challenging and I want to get better at being able to understand why things behave the way they do. Also I want to finish Flexbox Froggy!
