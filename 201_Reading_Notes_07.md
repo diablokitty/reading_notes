@@ -42,3 +42,5 @@ HTML Table Advanced Features and Accessibility
 ## Things I want to know more about
 
 I have always felt like I didn't really understand how to iterate through and manipulate data in multidimensional arrays, so I will be working on getting very solid with that.
+
+[back to Table of Contents](./README.md)

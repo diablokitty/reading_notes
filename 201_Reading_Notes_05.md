@@ -23,3 +23,9 @@ How readable the font is, whether it conveys the style you want for the site, ho
 Font size makes font bigger or smaller, font weight, and font style adds special things like bold, or italics.
 
 Describe two ways you could add spacing around the characters displayed in an h1 element.
+
+## Things I want to know more about
+
+I really want to be able to use moving images, so I'm looking at info related to that, but I remember using an image carousel somewhere, and I'm trying to find that as well.
+
+[back to Table of Contents](./README.md)

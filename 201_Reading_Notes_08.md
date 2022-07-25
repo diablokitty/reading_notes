@@ -29,3 +29,5 @@ Ideally this information will give me ideas for ways to more precisely control t
 ## Things I want to know more about
 
 I find controlling the elements on a page very challenging and I want to get better at being able to understand why things behave the way they do. Also I want to finish Flexbox Froggy!
+
+[back to Table of Contents](./README.md)

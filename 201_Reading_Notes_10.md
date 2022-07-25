@@ -33,3 +33,5 @@ Per Google, a call stack is a mechanism for an interpreter (like the JavaScript 
 ## Things I want to know more about
 
 I'm going to read most of the debugging information and play around with the JavaScript debugger. I think getting more familiar with the dev tools in general is important to developing my overall skillset as a dev.
+
+[back to Table of Contents](./README.md)
