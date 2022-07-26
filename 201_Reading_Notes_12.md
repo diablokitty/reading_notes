@@ -1,10 +1,10 @@
 # Reading notes for day 11 of 201
-###Reading JavaScript Canvas
+### Reading JavaScript Canvas
 
-- What does the <canvas> allow a developer to acheive?
+- What does the < canvas > element allow a developer to acheive?
 It allows the developer to draw 2D graphics with JavaScript using the element tag as a placeholder for rendering.
 
-- What is the importance of the closing `</canvas> tag?
+- What is the importance of the closing `< /canvas > tag?
 
 It allows for placement of fallback content if the canvas element isn't supported by the client browser.
 
