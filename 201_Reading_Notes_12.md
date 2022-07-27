@@ -1,4 +1,5 @@
-# Reading notes for day 11 of 201
+# Reading notes for day 12 of 201
+
 ### Reading JavaScript Canvas
 
 - What does the < canvas > element allow a developer to acheive?
@@ -12,7 +13,7 @@ It allows for placement of fallback content if the canvas element isn't supporte
 
  getContext() takes one argument which is the type of context. For example, you use the "2d" to get a 2D rendering context object.
 
-### Chart.js Documentation:
+### Chart.js Documentation
 
 - What is Chart.js and how it can be brought into your project?
 
@@ -24,7 +25,7 @@ Chart.js is a library that allows you to draw a chart using the canvas tag. You 
   2. Bubble Chart
   3. Line Chart
 
-But honestly there are a lot of chart types. It's a very robust library. 
+But honestly there are a lot of chart types. It's a very robust library.
 
 ### Easily Create Stunning Animated Charts with Chart.js
 
@@ -41,6 +42,5 @@ Adding charts might make the data easier to understand and more visually appeali
 ## Things I want to know more about
 
 I want to play with the charts. I like charts.
-
 
 [back to Table of Contents](./README.md)
