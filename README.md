@@ -14,5 +14,5 @@
 - [Reading 11](./201_Reading_Notes_11.md)
 - [Reading 12](./201_Reading_Notes_12.md)
 - [Reading 13](./201_Reading_Notes_13.md)
-- [Reading 14a](./201_Reading_Notes_14.md)
-- [Reading 14b](./201_Reading_Notes_15.md)
+- [Reading 14a](./201_Reading_Notes_14a.md)
+- [Reading 14b](./201_Reading_Notes_14b.md)
