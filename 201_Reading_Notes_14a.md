@@ -20,7 +20,6 @@ Transitions allow developers to alter the appearance of an object when a change 
 
 A transition is good for a single state change, animations allow for multiple state changes. So changing colors is good for a transition, but moving across a screen is more likely an animation.
 
-
 ### 8 simple CSS3 transitions that will wow your users
 
 - What are some benefits to using CSS transitions on websites?
@@ -35,6 +34,6 @@ Using tools like transitions and animations can make visiting a site I visit mor
 
 ## Things I want to know more about
 
-I'd like to read more about animations. I've seen sites where a ball bounces on a click and stops with another, and I want to build something like that. 
+I'd like to read more about animations. I've seen sites where a ball bounces on a click and stops with another, and I want to build something like that.
 
 [back to Table of Contents](./README.md)
