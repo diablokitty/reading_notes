@@ -1,6 +1,5 @@
-# Table of Contents
-<br>
 
+## Table of Contents
 
 - [Reading 1](./201_Reading_Notes_01.md)
 - [Reading 2](./201_Reading_Notes_02.md)
@@ -15,5 +14,5 @@
 - [Reading 11](./201_Reading_Notes_11.md)
 - [Reading 12](./201_Reading_Notes_12.md)
 - [Reading 13](./201_Reading_Notes_13.md)
-- [Reading 14](./201_Reading_Notes_14.md)
-- [Reading 15](./201_Reading_Notes_15.md)
+- [Reading 14a](./201_Reading_Notes_14.md)
+- [Reading 14b](./201_Reading_Notes_15.md)
