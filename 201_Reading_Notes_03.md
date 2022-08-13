@@ -1,4 +1,4 @@
-# Day Three Reading Questions:
+# Reading Notes for Day 3 of 201:
 
 - Reading Learn HTML
 Ordered and Unordered lists.
