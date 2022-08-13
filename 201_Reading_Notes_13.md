@@ -1,4 +1,4 @@
-# Reading notes for day 13 of 201
+# Reading Notes for Day 13 of 201:
 
 ### Read Local Storage and How To Use It On Websites
 
