@@ -1,4 +1,4 @@
-# Reading notes for day one of 201
+# Reading Notes for Day 1 of 201:
 
 Assigned reading:
 
