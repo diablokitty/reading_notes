@@ -1,4 +1,4 @@
-# Reading notes for day 6 of 201
+# Reading Notes for Day 6 of 201
 
 ### Reading JavaScript Object Basics
 
