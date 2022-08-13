@@ -1,4 +1,4 @@
-# Reading notes for day 7 of 201
+# Reading Notes for Day 7 of 201:
 
 ### Domain Modeling
 
