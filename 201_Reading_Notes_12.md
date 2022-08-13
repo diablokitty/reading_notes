@@ -1,4 +1,4 @@
-# Reading notes for day 12 of 201
+# Reading Notes for Day 12 of 201:
 
 ### Reading JavaScript Canvas
 
