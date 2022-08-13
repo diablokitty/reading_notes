@@ -1,4 +1,4 @@
-# Reading Notes for day 5 of 201
+# Reading Notes for Day 5 of 201
 
 ## Readings: Images, Color, Text
 
