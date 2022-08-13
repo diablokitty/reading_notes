@@ -1,7 +1,11 @@
+# Reading Notes and Development Resources
+
+As a part of my studies with the Code Fellows Software Development Bootcamp I am attending, I read almost every day about software related topics and answer questions about those readings. The following pages demonstrate the topics I have covered so far. I plan to expand this resource with links to other pages and notes on additional readings I will do, but right now Code Fellows is keeping me pretty busy. 
+
 
 ## Table of Contents
 
-- Code 201 Foundations of Software Development
+### Code 201 Foundations of Software Development
   - [Reading 1](./201_Reading_Notes_01.md)
   - [Reading 2](./201_Reading_Notes_02.md)
   - [Reading 3](./201_Reading_Notes_03.md)
@@ -17,7 +21,8 @@
   - [Reading 13](./201_Reading_Notes_13.md)
   - [Reading 14a](./201_Reading_Notes_14a.md)
   - [Reading 14b](./201_Reading_Notes_14b.md)
-- Code 301 Intermediate Software Development
+
+### Code 301 Intermediate Software Development
   - [Reading 1](./301_Reading_Notes_01.md)
   - [Reading 2](./301_Reading_Notes_02.md)
   - [Reading 3](./301_Reading_Notes_03.md)
