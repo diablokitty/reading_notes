@@ -1,4 +1,4 @@
-# Reading notes for day two of 201
+# Reading Notes for Day 2 of 201:
 
 We are continuing review from the Introduction to HTML documentation on the Mozilla Developer Network(MDN) webpages.
 
