@@ -1,4 +1,4 @@
-# Reading notes for day 14 of 201
+# Reading Notes for Day 14 of 201
 
 ## Special Topic: Psychological Safety
 
