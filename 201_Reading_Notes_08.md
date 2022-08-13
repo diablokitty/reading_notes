@@ -1,4 +1,4 @@
-# Reading notes for day 8 of 201
+# Reading Notes for Day 8 of 201:
 
 ## Read Learn CSS - Flexbox
 
