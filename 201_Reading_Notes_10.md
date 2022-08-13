@@ -1,4 +1,4 @@
-# Reading notes for day 10 of 201
+# Reading Notes for Day 10 of 201:
 
 ### REad What Went Wrong? Troubleshooting JavaScript.
 
