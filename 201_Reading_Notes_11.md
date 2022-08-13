@@ -1,4 +1,4 @@
-# Reading notes for day 11 of 201
+# Reading Notes for Day 11 of 201:
 
 ### Reading Video and Audio Content
 
