@@ -36,6 +36,6 @@ As a part of my studies with the Code Fellows Software Development Bootcamp I am
   - [Reading 11](./301_Reading_Notes_11.md)
   - [Reading 12](./301_Reading_Notes_12.md)
   - [Reading 13](./301_Reading_Notes_13.md)
-  - [Reading 14a](./301_Reading_Notes_14a.md)
-  - [Reading 14b](./301_Reading_Notes_14b.md)
+  - [Reading 14](./301_Reading_Notes_14.md)
+  - [Reading 15](./301_Reading_Notes_15.md)
  
