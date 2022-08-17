@@ -49,4 +49,4 @@ A counter or information a user inputs like form elements.
 
 ## Things I want to know more about:
 
-I need to practice with state vs props. It feels like state in one component could be equal to props in another component, but I'm not sure from the video if updating the state of component a would cause a re-rended in component b. It feels like the change in information should trigger one.
+I need to practice with state vs props. It feels like state in one component could be equal to props in another component, but I'm not sure from the video if updating the state of component a would cause a re-render in component b. It feels like the change in information should trigger one.
