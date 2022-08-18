@@ -5,9 +5,11 @@
 ### Reading [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 - What does .map() return?
+
 A new array based on the information in the passed in array and whatever machinations the programmer has gotten up to.
 
 - If I want to loop through an array and display each value in JSX, how do I do that in React?
+
   Using forEach or map, and a handy pair of curly braces.
 
 - Each list item needs a unique ___.
