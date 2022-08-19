@@ -6,7 +6,7 @@
 
 - What is a ‘Controlled Component’?
 
-An element whose native responses overwritten by React instructions. Kind of like mind control but with programming.
+An element whose native responses are overwritten by React instructions. Kind of like mind control but with programming.
 
 - Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 
