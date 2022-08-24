@@ -23,12 +23,32 @@
   GET, POST, PUT PATCH and DELETE
 
 - What should the URIs be based on?
+
+The resource and not operations on the resource.
+
 - Give an example of a good URI.
+
+prettythings/dresses
+
 - What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+
+API's that send back a lot of small responses, and no, they take up too many resources. Best to info dump and let the client sort it out. 
+
 - What status code does a successful GET request return?
+
+200
+
 - What status code does an unsuccessful GET request return?
+
+204
+
 - What status code does a successful POST request return?
+
+201
+
 - What status code does a successful DELETE request return?
+
+204
 
 ### Bookmark and Review
 [RegExr](https://regexr.com/) - Pay particular attention to the cheatsheet
@@ -39,4 +59,5 @@
 
 ## Things I want to know more about:
 
-Coming Soon!
+There's just a lot here. I am scratching the surface of RESTFul design. Turns out it has nothing to do with good visuals.
+

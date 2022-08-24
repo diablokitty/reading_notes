@@ -5,13 +5,36 @@
 ### Reading [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 
 - What is node.js?
+
+It's a javascript compile and execution package, essentially.
+
 - In your own words, what is Chrome’s V8 JavaScript Engine?
+
+V8 is a compiler. It takes code and translates it into something your computer can use.
+
 - What does it mean that node is a JavaScript runtime?
+
+It's sort of an incubator environment where Javascript is compiled and run.
+
 - What is npm?
+
+node package manager - it's an installer for bits of code.
+
 - What version of node are you running on your machine?
+
+18.5.0
+
 - What version of npm are you running on your machine?
+
+8.12.1
+
 - What command would you type to install a library/package called ‘jshint’?
+
+npm i jshint
+
 - What is node used for?
+
+node is used to create an independent environment for Javascript to execute in, outside of a browser.
 
 ### Reading [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
@@ -40,4 +63,4 @@ From the reading:
 
 ## Things I want to know more about:
 
-Coming Soon!
+I kind of know what a runtime is, but I don't really know exactly what's happening in there, so tha's an area to explore.

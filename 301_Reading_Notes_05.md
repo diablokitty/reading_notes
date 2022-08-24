@@ -36,12 +36,16 @@ Figure out the highest component that needs to reference the item.
 
 - Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
+Line 2: return m => m > n; is returning the first instance of m that is greater than n.
+
 
 
 - Explain how either map or reduce operates, with regards to higher-order functions.
+
+Map takes in all of the elements of an array, returns only the values that match a passed in parameter, and builds a new array based on the values returned.
 
 ### No addtional readings for today.
 
 ## Things I want to know more about:
 
-I don't have any questions today. I'll probably revise this when I can access the second article.
+I would like to find a more verbose example of how built in functions work, so that I can understand better how to pass in the information they need.
