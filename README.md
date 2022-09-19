@@ -41,8 +41,8 @@ As a part of my studies with the Code Fellows Software Development Bootcamp I am
  
 
 ### Code 401  Advanced Software Development in Full-Stack JavaScript
-  - [The Command Line](./Practice_in_the_Terminal.md)
-  - [SQL Practice](./SQL_Practice)
+  - [Practice In The Terminal](./Practice_In_The_Terminal.md)
+  - [SQL Practice](./SQL_Practice.md)
   - [Reading 1](./401_Reading_Notes_01.md)
   - [Reading 2](./401_Reading_Notes_02.md)
   - [Reading 3](./401_Reading_Notes_03.md)
