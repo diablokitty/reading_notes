@@ -1,4 +1,5 @@
 # Reading Notes for Day 16 of 401:
+
 ## AWS EC2
 
 - What is an EC2 Instance?
