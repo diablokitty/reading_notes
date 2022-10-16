@@ -15,3 +15,7 @@ Explain to a non-technical recruiter what combineReducers() does and why it is u
 worlds easiest guide to redux
 testing reducers
 Redux Docs
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

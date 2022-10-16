@@ -29,3 +29,7 @@ For each article that you choose, write a minimum 5 sentences (1 paragraph). Eac
   Microsoft AI Principles
   Ethical OS Toolkit
   Google AI Principles
+
+  ### Things I want to know more about:
+
+  [back to Table of Contents](./README.md)

@@ -20,3 +20,7 @@ What take-away(s) did this tutorial provide?
 ### Bookmark and Review
 Redux Toolkit (RTK)
 HookState
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

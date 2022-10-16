@@ -12,3 +12,5 @@
 - File Manipulation - How to make, remove, rename, copy and move files and directories.
 
 - Cheat Sheet - A quick reference for the main points covered in this tutorial.
+
+[back to Table of Contents](./README.md)

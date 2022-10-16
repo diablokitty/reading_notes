@@ -17,3 +17,7 @@ react-cookies component
 Describe some react-cookie features.
 Describe some react-cookies features.
 Which library would you prefer would you prefer? Why?
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

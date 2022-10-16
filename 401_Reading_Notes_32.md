@@ -11,5 +11,10 @@ Specifically with Context, how are we “wrapping” components to achieve our g
 ### Awesome React Context links
 
 Consume content from (at least) two more of the Awesome React Context links. After some familiarity with React Context, once again share your takeaways from each:
+
 Takeaway 1:
 Takeaway 2:
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

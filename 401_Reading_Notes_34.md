@@ -10,10 +10,14 @@ Domain: http://our-site.com
 v3
 model name: stuff
 id: things
-We have created a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.
+We have cre ated a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.
 
 ### Review Auth Server Build
 
 Describe how you would use middleware to implement basic and bearer auth.
 Describe the handshake necessary to implement OAuth.
 Describe how Role Based Access Control works to a non-technical friend.
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

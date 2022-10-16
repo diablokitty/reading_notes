@@ -1,0 +1,37 @@
+# Reading Notes: Trees
+
+##Types of Trees:
+
+Binary trees, binary search trees and k-ary trees.
+
+- K-ary trees are trees with multiple notes.
+
+## Common Terminology:
+
+- Node: tree componentes that contain values and possible references to other nodes.
+
+- Root: Root is the node at the start of the tree.
+
+- K: a value that determines how many children a node can have in any given tree.
+
+- Left/Right: directions that allows us to traverse nodes in binary trees. In k-ary trees this is replaced by 'index'.
+
+- Edge: the link between the parent and the child node.
+
+- Leaf: a node with no children.
+
+- Height: the height of the tree is determined by the number of edges from the root to the furthest leaf.
+
+## Traversing Trees
+
+### Breadth First
+
+The breadth first method traverses across nodes at the same depth before moving to the next level.
+
+### Depth First
+
+The depth first method traverses to the end leaf of each leg of the tree before traversing the next leg. This is the more common way of traversing trees.
+
+For more information on trees: [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+
+[back to Table of Contents](./README.md)

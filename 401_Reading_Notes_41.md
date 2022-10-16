@@ -25,3 +25,7 @@ react native basics
 
 ### Bookmark and Review
 react native
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)
