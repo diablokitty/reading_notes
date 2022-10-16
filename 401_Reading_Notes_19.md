@@ -47,3 +47,5 @@ A subscribed service might use SQS to send out links to access the data subscrib
 ### Things I want to know more about:
 
 I'm not entirely clear about the relationship between SNS and SQS and will need to read to understand how the two interact, for example, if you want a message to be pushed and also persistent, does the SNS push to and SQS for each client?
+
+[back to Table of Contents](./README.md)

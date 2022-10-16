@@ -35,6 +35,6 @@ It's middleware that communicates with DynamoDB
 
 - What are some key features of Dynamoose?
 
-
-
 ### Things I want to know more about:
+
+[back to Table of Contents](./README.md)

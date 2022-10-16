@@ -11,3 +11,7 @@ Discuss 2 possible project ideas that could be completed by you and a partner in
 ### Bookmark and Review
 
 Review CAPS Build
+
+### Things I want to know more about:
+
+[back to Table of Contents](./README.md)
