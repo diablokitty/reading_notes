@@ -82,3 +82,7 @@ As a part of my studies with the Code Fellows Software Development Bootcamp I am
   - [Reading 43](./401_Reading_Notes_41.md)
   - [Reading: Trees](./Reading_Notes_Trees)
   - [Reading: Additional Notes](./401_Reading_Notes_other.md)
+
+  ### Other Posts
+  
+  - [Code Challenge 26](./401_Code_Challenge_26)
